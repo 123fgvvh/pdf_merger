@@ -22,12 +22,15 @@ PDF Merger App is a simple web application that allows users to merge 2 PDF file
 
    ```bash
    git clone https://github.com/123fgvvh/pdf_merger.git   
-2.Install dependencies:
+
+2. Make a public folder in your main directory
+   
+3.Install dependencies:
 npm install (-> package.json file is available)
 
-3. Start the server
+4. Start the server
    ```bash
    npm start 
-4. License
+5. License
    This project is licensed under the MIT License.
 
